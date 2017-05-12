@@ -2,11 +2,11 @@ ICA 05 Gruppe 2
 
 vi har jobbet med dette sammen på en pc og derfor ble en bare en commit.
 navn på deltakere:
-Dyb Nikolai\n
-Hassan Shiwan\n
-Krossen Ella\n
-Sandøy Benjamin\n
-Thompson Sindre\n
+Dyb Nikolai,
+Hassan Shiwan,
+Krossen Ella,
+Sandøy Benjamin,
+Thompson Sindre,
 
 
 
