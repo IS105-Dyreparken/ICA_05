@@ -1,6 +1,6 @@
 # ICA05 for gruppe 2, Dyreparken
 
-Består av:  
+Deltakere:
 
 Dyb, Nikolai Holmen
 
