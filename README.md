@@ -1,15 +1,20 @@
-ICA 05 Gruppe 2
+# ICA05 for gruppe 2, Dyreparken
+
+Består av:  
+
+Dyb, Nikolai Holmen
+
+Hassan, Shiwan
+
+Krossen, Ella
+
+Sandøy, Benjamin AG
+
+Thompson, Sindre  
+
+Yang, Erik
 
 vi har jobbet med dette sammen på en pc og derfor ble en bare en commit.
-navn på deltakere:
-Dyb Nikolai,
-Hassan Shiwan,
-Krossen Ella,
-Sandøy Benjamin,
-Thompson Sindre,
-Yang Erik
-
-
 
 ICA 05 har vi laget koden ved hjelp av hjelpelærere som viste oss martini og hjalp oss i klassen
 
