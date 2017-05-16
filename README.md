@@ -7,6 +7,7 @@ Hassan Shiwan,
 Krossen Ella,
 Sandøy Benjamin,
 Thompson Sindre,
+Yang Erik
 
 
 
